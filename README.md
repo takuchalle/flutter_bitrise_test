@@ -2,4 +2,4 @@
 
 # flutter_bitrise
 
-Test Projecto for building on bitrise
+Test Projecto for building on [bitrise](https://app.bitrise.io)
